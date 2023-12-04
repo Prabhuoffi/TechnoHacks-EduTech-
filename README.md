@@ -1,3 +1,3 @@
 # TechnoHacks-EduTech-
 
-technohaacks internship
+technohacks internship
